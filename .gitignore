@@ -1,0 +1,4 @@
+*.pyc
+DiffSynth-Studio/models
+Data
+SimpleTuner/flux_output
